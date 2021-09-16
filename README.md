@@ -45,4 +45,34 @@ Abaixo, listamos as principais características da ferramenta:
 
 Para usar os pacotes, seu projeto deve conter um arquivo chamado de package.json. Dentro do pacote, você encontrará metadados específicos para os projetos.
 
+<div align = "center">
+  <img src = https://user-images.githubusercontent.com/83087618/133654293-ed42b46a-939a-4a1e-8e6d-ce79dd1b62a6.png width = "800px" />
+  </div>
+  
+- O nome é hostinger-npm;
+- A versão é 1.0.0;
+- A descrição informa npm guide for beginner;
+- O ponto de entrada do projeto ou o arquivo principal é beginner-npm.js;
+- As palavras chave ou tags para encontrar o projeto no repositório são npm, example e basic;
+- O autor do projeto é Hostinger International;
+- Este projeto está licenciado sob o MIT;
+- As dependências ou outros módulos que esse módulo usa são express 4.16.4.
+
+<div align = "center">
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width = "100px" />
+  </div>
+
+# O que é Yarn?
+
+Com uma estrutura já conhecida e utilizada por ferramentas renomadas, como o NPM, essa aplicação tem se destacado por sua simplicidade e segurança. O Yarn é um gerenciador de pacotes que trouxe mais funcionalidades e vantagens para programadores.
+
+Por ser uma ferramenta de código aberto, há uma comunidade de colaboradores experientes e qualificados que, continuamente, contribuem com novas adições de códigos, gerando pacotes variados. Assim, é possível utilizá-los nas mais diversas possibilidades.
+
+Veja as principais funcionalidades:
+
+- Lock file: Bloquear qualquer dependência instalada para assegurar instalações em ambientes diferentes. 
+- Limpeza de Dependências: serve para executar uma busca em todas as dependências e encontrar o que não está em uso. Isso gera uma exportação para o arquivo chamado .yarnclean.
+- Workspaces: Estruturar arquiteturas de pacotes em subpastas no Yarn.
+- Modo offline: Esse recurso tem como objetivo permitir que pacotes sejam instalados sem precisar estar conectado à internet.
+
 
